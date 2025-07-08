@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|c:\\users\\bhing\\onedrive\\desktop\\abhijeetcdac\\assignments\\dotnet\\assignment\\booksapi\\booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|c:\\users\\bhing\\onedrive\\desktop\\abhijeetcdac\\assignments\\dotnet\\assignment\\booksapi\\booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|c:\\users\\bhing\\onedrive\\desktop\\abhijeetcdac\\assignments\\dotnet\\assignment\\booksapi\\booksapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|c:\\users\\bhing\\onedrive\\desktop\\abhijeetcdac\\assignments\\dotnet\\assignment\\booksapi\\booksapi\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|c:\\users\\bhing\\onedrive\\desktop\\abhijeetcdac\\assignments\\dotnet\\assignment\\booksapi\\booksapi\\booksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\booksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|c:\\users\\bhing\\onedrive\\desktop\\abhijeetcdac\\assignments\\dotnet\\assignment\\booksapi\\booksapi\\booksapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\booksapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|c:\\users\\bhing\\onedrive\\desktop\\abhijeetcdac\\assignments\\dotnet\\assignment\\booksapi\\booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{060316B2-06D5-44E9-A227-F759088B5492}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BooksAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BooksAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:06:07.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BooksAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\Program.cs",
+              "RelativeToolTip": "BooksAPI\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:05:23.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BooksAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BooksAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:05:02.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "BooksAPI\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\Models\\BookModel.cs",
+              "RelativeToolTip": "BooksAPI\\Models\\BookModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:03:57.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksAPI",
+              "DocumentMoniker": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+              "RelativeDocumentMoniker": "BooksAPI\\BooksAPI.csproj",
+              "ToolTip": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+              "RelativeToolTip": "BooksAPI\\BooksAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T05:03:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksAPI",
+              "DocumentMoniker": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+              "RelativeDocumentMoniker": "BooksAPI\\BooksAPI.csproj",
+              "ToolTip": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+              "RelativeToolTip": "BooksAPI\\BooksAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T05:03:05.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BooksAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\bhing\\OneDrive\\Desktop\\AbhijeetCDAC\\Assignments\\dotNet\\Assignment\\BooksAPI\\BooksAPI\\appsettings.json",
+              "RelativeToolTip": "BooksAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T05:00:23.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
